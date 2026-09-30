@@ -1,4 +1,4 @@
-
+1: Foundations - CI/CD & GitHub Actions
 
 What is CI/CD?
 CI/CD automates building, testing, and deploying code.
