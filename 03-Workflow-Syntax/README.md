@@ -123,3 +123,10 @@ jobs:
       - name: Run command
         run: echo "Build started"
 ```
+
+How to execute it:
+1. Copy the syntax-demo.yml file to .github/workflows/
+2. Commit and Push:
+git add .github/workflows/syntax-demo.yml
+git commit -m "Add syntax deep dive workflow"
+git push origin main
